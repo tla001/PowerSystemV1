@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/new/login">
+        <file>resource/images/back_login.jpg</file>
+        <file>resource/images/login.ico</file>
+    </qresource>
+    <qresource prefix="/register">
+        <file>resource/images/back_reg.jpg</file>
+        <file>resource/images/register.ico</file>
+    </qresource>
+    <qresource prefix="/main">
+        <file>resource/images/main.ico</file>
+        <file>resource/images/users.ico</file>
+        <file>resource/images/Admin.ico</file>
+        <file>resource/images/password_refresh.ico</file>
+        <file>resource/images/books.ico</file>
+        <file>resource/images/rendbook.ico</file>
+    </qresource>
+</RCC>
